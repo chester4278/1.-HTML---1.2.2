@@ -1,0 +1,27 @@
+.figure-cathedral {
+  float: right;
+  padding: 18px;
+  border: 2px solid #e0e4e8;
+  margin: 20px 0px 20px 40px;
+}
+
+.figure-nasdaq {
+  float: left;
+  padding: 18px;
+  border: 2px solid #e0e4e8;
+  margin-left: 0px;
+  margin-right: 40px;
+}
+
+figcaption {
+  font-size: 13px;
+  margin-top: 10px;
+}
+
+p {
+  line-height: 26px;
+}
+
+ul {
+  line-height: 22px;
+}
